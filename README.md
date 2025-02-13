@@ -9,7 +9,6 @@ This project is a Medical Data Visualizer that utilizes Python libraries such as
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functionality](#functionality)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
